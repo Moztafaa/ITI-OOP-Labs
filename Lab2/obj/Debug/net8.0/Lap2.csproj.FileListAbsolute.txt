@@ -1,0 +1,14 @@
+C:\Users\Mostafa Ibrahim\RiderProjects\ITI-OOP-Labs\Lap2\bin\Debug\net8.0\Lap2.exe
+C:\Users\Mostafa Ibrahim\RiderProjects\ITI-OOP-Labs\Lap2\bin\Debug\net8.0\Lap2.deps.json
+C:\Users\Mostafa Ibrahim\RiderProjects\ITI-OOP-Labs\Lap2\bin\Debug\net8.0\Lap2.runtimeconfig.json
+C:\Users\Mostafa Ibrahim\RiderProjects\ITI-OOP-Labs\Lap2\bin\Debug\net8.0\Lap2.dll
+C:\Users\Mostafa Ibrahim\RiderProjects\ITI-OOP-Labs\Lap2\bin\Debug\net8.0\Lap2.pdb
+C:\Users\Mostafa Ibrahim\RiderProjects\ITI-OOP-Labs\Lap2\obj\Debug\net8.0\Lap2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mostafa Ibrahim\RiderProjects\ITI-OOP-Labs\Lap2\obj\Debug\net8.0\Lap2.AssemblyInfoInputs.cache
+C:\Users\Mostafa Ibrahim\RiderProjects\ITI-OOP-Labs\Lap2\obj\Debug\net8.0\Lap2.AssemblyInfo.cs
+C:\Users\Mostafa Ibrahim\RiderProjects\ITI-OOP-Labs\Lap2\obj\Debug\net8.0\Lap2.csproj.CoreCompileInputs.cache
+C:\Users\Mostafa Ibrahim\RiderProjects\ITI-OOP-Labs\Lap2\obj\Debug\net8.0\Lap2.dll
+C:\Users\Mostafa Ibrahim\RiderProjects\ITI-OOP-Labs\Lap2\obj\Debug\net8.0\refint\Lap2.dll
+C:\Users\Mostafa Ibrahim\RiderProjects\ITI-OOP-Labs\Lap2\obj\Debug\net8.0\Lap2.pdb
+C:\Users\Mostafa Ibrahim\RiderProjects\ITI-OOP-Labs\Lap2\obj\Debug\net8.0\Lap2.genruntimeconfig.cache
+C:\Users\Mostafa Ibrahim\RiderProjects\ITI-OOP-Labs\Lap2\obj\Debug\net8.0\ref\Lap2.dll
