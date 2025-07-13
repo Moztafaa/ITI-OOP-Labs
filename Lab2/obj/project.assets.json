@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mostafa Ibrahim\\RiderProjects\\ITI-OOP-Labs\\Lab2\\Lab2.csproj",
+      "projectUniqueName": "C:\\Users\\Mostafa Ibrahim\\Documents\\DotNet_Projects\\ITI-OOP-Labs\\Lab2\\Lab2.csproj",
       "projectName": "Lab2",
-      "projectPath": "C:\\Users\\Mostafa Ibrahim\\RiderProjects\\ITI-OOP-Labs\\Lab2\\Lab2.csproj",
+      "projectPath": "C:\\Users\\Mostafa Ibrahim\\Documents\\DotNet_Projects\\ITI-OOP-Labs\\Lab2\\Lab2.csproj",
       "packagesPath": "C:\\Users\\Mostafa Ibrahim\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mostafa Ibrahim\\RiderProjects\\ITI-OOP-Labs\\Lab2\\obj\\",
+      "outputPath": "C:\\Users\\Mostafa Ibrahim\\Documents\\DotNet_Projects\\ITI-OOP-Labs\\Lab2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
