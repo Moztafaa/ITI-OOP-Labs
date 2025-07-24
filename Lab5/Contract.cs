@@ -1,7 +1,9 @@
-﻿namespace Lab5;
+﻿using Lab5.Contracts;
+
+namespace Lab5;
 
 public class Contract(IPlayer player, DateTime startDate, DateTime endDate, decimal weeklySalary)
-    : IContract
+    : IContract, ITestabel
 {
     public IPlayer Player { get; set; } = player;
     public DateTime StartDate { get; set; } = startDate;
