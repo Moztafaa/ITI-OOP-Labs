@@ -8,7 +8,6 @@ public class Player(string position, int jerseyNumber, double skillRating, strin
     private decimal _salary;
 
     public decimal Salary { get => _salary; }
-
     public void UpdateSalary(decimal amount)
     {
         if (amount < Salary)
