@@ -1,0 +1,15 @@
+/mnt/c/Users/Mostafa Ibrahim/Documents/DotNet_Projects/ITI-OOP-Labs/Lab7/bin/Debug/net8.0/Lab7
+/mnt/c/Users/Mostafa Ibrahim/Documents/DotNet_Projects/ITI-OOP-Labs/Lab7/bin/Debug/net8.0/Lab7.deps.json
+/mnt/c/Users/Mostafa Ibrahim/Documents/DotNet_Projects/ITI-OOP-Labs/Lab7/bin/Debug/net8.0/Lab7.runtimeconfig.json
+/mnt/c/Users/Mostafa Ibrahim/Documents/DotNet_Projects/ITI-OOP-Labs/Lab7/bin/Debug/net8.0/Lab7.dll
+/mnt/c/Users/Mostafa Ibrahim/Documents/DotNet_Projects/ITI-OOP-Labs/Lab7/bin/Debug/net8.0/Lab7.pdb
+/mnt/c/Users/Mostafa Ibrahim/Documents/DotNet_Projects/ITI-OOP-Labs/Lab7/obj/Debug/net8.0/Lab7.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/Mostafa Ibrahim/Documents/DotNet_Projects/ITI-OOP-Labs/Lab7/obj/Debug/net8.0/Lab7.AssemblyInfoInputs.cache
+/mnt/c/Users/Mostafa Ibrahim/Documents/DotNet_Projects/ITI-OOP-Labs/Lab7/obj/Debug/net8.0/Lab7.AssemblyInfo.cs
+/mnt/c/Users/Mostafa Ibrahim/Documents/DotNet_Projects/ITI-OOP-Labs/Lab7/obj/Debug/net8.0/Lab7.csproj.CoreCompileInputs.cache
+/mnt/c/Users/Mostafa Ibrahim/Documents/DotNet_Projects/ITI-OOP-Labs/Lab7/obj/Debug/net8.0/Lab7.sourcelink.json
+/mnt/c/Users/Mostafa Ibrahim/Documents/DotNet_Projects/ITI-OOP-Labs/Lab7/obj/Debug/net8.0/Lab7.dll
+/mnt/c/Users/Mostafa Ibrahim/Documents/DotNet_Projects/ITI-OOP-Labs/Lab7/obj/Debug/net8.0/refint/Lab7.dll
+/mnt/c/Users/Mostafa Ibrahim/Documents/DotNet_Projects/ITI-OOP-Labs/Lab7/obj/Debug/net8.0/Lab7.pdb
+/mnt/c/Users/Mostafa Ibrahim/Documents/DotNet_Projects/ITI-OOP-Labs/Lab7/obj/Debug/net8.0/Lab7.genruntimeconfig.cache
+/mnt/c/Users/Mostafa Ibrahim/Documents/DotNet_Projects/ITI-OOP-Labs/Lab7/obj/Debug/net8.0/ref/Lab7.dll
