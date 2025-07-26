@@ -3,18 +3,16 @@
 using System.Linq;
 public class Club(string name,
         int foundedYear,
-        string stadium,
-        List<Player> players, List<Coach> coaches,
-        List<MedicalStaff> medicalTeam) : IManageable
+        string stadium, decimal initialBudget) : IManageable
 {
     public string Name { get; set; } = name;
     public int FoundedYear { get; set; } = foundedYear;
     public string Stadium { get; set; } = stadium;
-    public List<Player> Players { get; set; } = players;
-    public List<Coach> Coaches { get; set; } = coaches;
-    public List<MedicalStaff> MedicalTeam { get; set; } = medicalTeam;
-    private decimal _budget;
-    private Dictionary<Match, MatchResult>? _matchWithResult;
+    public List<Player> Players { get; set; } = new();
+    public List<Coach> Coaches { get; set; } = new();
+    public List<MedicalStaff> MedicalTeam { get; set; } = new();
+    private decimal _budget = initialBudget;
+    private Dictionary<Match, MatchResult>? _matchWithResult = new();
 
     // private List<Match> _matches;
     // private List<MatchResult> _matchResults;
@@ -76,4 +74,10 @@ public class Club(string name,
         }
 
     }
+
+    public override string ToString()
+    {
+        return $"Club Name: {Name}\nStadium: {Stadium}\nClub Budget: {_budget}";
+    }
+
 }

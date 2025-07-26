@@ -8,7 +8,7 @@ public class Coach(string licenseLevel, string tacticalFormation, string name, i
 
     public override string DisplayInfo()
     {
-        return $"Coach License level: {LicenseLevel}";
+        return $"Coach License level: {LicenseLevel}\n Name: {Name}\n Age: {Age}\n TacticalFormation: {TacticalFormation}";
     }
 
     public string GetRole()

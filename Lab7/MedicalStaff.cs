@@ -6,7 +6,7 @@ public class MedicalStaff(string specialization, string name, int age) : Person(
 
     public override string DisplayInfo()
     {
-        return $"Specialization in {Specialization}";
+        return $"MedicalStaff member NaSpecialization in {Specialization}\n Name: {Name}";
     }
 
     public string GetRole()

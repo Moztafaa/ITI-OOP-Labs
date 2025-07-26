@@ -28,6 +28,6 @@ public class Player(string position, int jerseyNumber, double skillRating, strin
 
     public override string DisplayInfo()
     {
-        return $"Player Position is {Position}";
+        return $"{Position}, Player Name: {Name}, Jersery: {JerseyNumber}, Player Salary: ${Salary}";
     }
 }
