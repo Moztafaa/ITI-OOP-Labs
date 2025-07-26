@@ -1,13 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "k8RWtFAtL3A=",
+  "dgSpecHash": "Fud3THpABIE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mostafa Ibrahim\\Documents\\DotNet_Projects\\ITI-OOP-Labs\\Lab7\\Lab7.csproj",
+  "projectFilePath": "/mnt/c/Users/Mostafa Ibrahim/Documents/DotNet_Projects/ITI-OOP-Labs/Lab7/Lab7.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Mostafa Ibrahim\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.15\\microsoft.netcore.app.ref.8.0.15.nupkg.sha512",
-    "C:\\Users\\Mostafa Ibrahim\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.15\\microsoft.windowsdesktop.app.ref.8.0.15.nupkg.sha512",
-    "C:\\Users\\Mostafa Ibrahim\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.15\\microsoft.aspnetcore.app.ref.8.0.15.nupkg.sha512",
-    "C:\\Users\\Mostafa Ibrahim\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.15\\microsoft.netcore.app.host.win-x64.8.0.15.nupkg.sha512"
+    "/home/mostafa/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.18/microsoft.netcore.app.host.linux-x64.8.0.18.nupkg.sha512"
   ],
   "logs": []
 }
